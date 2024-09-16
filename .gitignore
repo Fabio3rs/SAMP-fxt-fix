@@ -1,0 +1,55 @@
+# Visual Studio specific files
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.vcxproj.VC.db
+*.VC.opendb
+ipch/
+*.suo
+*.user
+*.cache
+*.ilk
+*.log
+*.ncb
+*.obj
+*.pch
+*.pdb
+*.sdf
+*.tlog
+*.trx
+*.log
+*.vspscc
+*.vssscc
+*.psess
+*.vspx
+*.vsp
+*.vspf
+*.vsmdi
+
+# Visual Studio Code specific
+.vscode/
+
+# Build output folders
+Debug/
+Release/
+x64/
+x86/
+ARM/
+ARM64/
+bin/
+obj/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+Testing/
+cmake_install.cmake
+CMakeLists.txt.user
+CTestTestfile.cmake
+
+# Generated files
+Makefile
+build/
+out/
+
